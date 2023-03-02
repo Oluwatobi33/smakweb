@@ -1,0 +1,231 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.tobi li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 12px;
+    font-weight: 700;
+    color: #707070;
+    text-transform: uppercase;
+}
+.adress-element {
+    text-align: center;
+    padding:  12px 23px;
+}
+.footer {
+    background:#131217;
+    padding: 45px 0px;
+}
+ .btn-warning {
+    background-color:  4px  solid #decc24 !important;
+    padding: 12px 23px !important;
+}
+.sure li {
+    display: inline-block;
+}
+.form-control:hover{
+   border:2px solid yellow;
+}
+.zoom:hover {
+    border: 6px solid yellow;
+    padding: 9px 9px;
+}
+.ope{
+    background-image:linear-gradient(black)
+}
+.form-control {
+    padding: 40px;
+    margin: 12px 0px;
+}
+.remote {
+    position: relative;
+    padding: 12px 67px;
+}
+.underline5{
+    background: #FFCF03;
+    width: 23px;
+    height: 13px;
+    display: inline-block;
+}
+.mummy{
+    color: #9b9b9b;
+}
+.Analize h3{
+    color:white;
+}
+.Analize p{
+    color:white;
+}
+.underline5{
+    width: 170px;
+   height: 2px;
+   background:  #FFCF03;
+   display: inline-block;
+}
+.about h3 {
+    font-weight: 700;
+}
+.soft li {
+    padding: 0px 12px;
+}
+.add{
+    border-bottom:2px solid #9b9b9b;
+    background: #fff;
+    text-align: center;
+}
+.circle {
+    float: left;
+}
+.number-item{
+    border: 1px solid #FFE600;
+    padding: 23px 12px;
+    margin: 12px 0px;
+}
+.underline3{
+    border-bottom: 2px solid #FFCF03;
+    width: 270px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+.number-item h3{
+    text-align: center;
+}
+.number-item span{
+font-size: 19px;
+text-align: center;
+color: #FFE600;
+padding-left: 49px;
+}
+.btn-primary{
+    color: black ! important;
+    background: #ffe600! important;
+    border: 1px solid #ffe600 ! important;
+    padding: 10px 30px ! important;
+    font-weight: 500 ! important;
+}
+.section {
+    margin-bottom: 23px;
+}
+.wrapper h1 {
+    text-transform:uppercase;
+    font-size: 30px;
+    font-weight: 500;
+}
+.section3{
+    padding: 90px 0px;
+}
+p{
+    color: #707070;
+}
+.img-responsive {
+    width: 200px;
+    display: block;
+    height: 12px;   
+}
+
+.mask{
+    display: none;
+}
+.heading p {
+    font-size: 17px;
+}
+.different  li{
+    list-style-type: none;
+    display: inline-block;
+}
+.diff2 li{
+    display:inline-block; 
+    padding: 0px 9px; 
+}
+
+.underline4 {
+    width: 170px;
+   height: 2px;
+   background:  #FFCF03;
+   display: inline-block;
+}
+.walt {
+    display: inline-block;
+    padding-right: 23px;
+}
+.branded-section {
+    margin-top: 129px;
+    background-image: url(../gallery/skills.jpg);
+    background-size: cover;
+    background-position: relative;
+}
+.skill{
+    background-image: url(../gallery/skills.jpg);
+    display: block;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 90px 0px;
+   
+}
+.tobi li:hover{
+    color: #FFCF03;
+}
+.wallpaper{
+    /* background: rgba(19, 19, 22, 0.5); */
+    background-image: url("../img/do.jpg");
+    background: url(img/do.jpg);
+    background-size: cover;
+    padding:59px 0px;
+}
+
+.emman{
+/* background-image: url(/yes/slider.jpg); */
+padding: 34px 90px;
+height: 200px;
+width: 100px;
+background-size: cover;
+}
+.brand{
+    font-size: 54px;
+}
+.ope{
+    background: rgba(19, 19, 22, 0.2);
+    transition: 5s;
+}
+.navbar-brand{
+    float: left;
+}
+.emman {
+    position: relative;
+}
+.our{
+    font-size: 19px;
+    color: #707070;
+}
+.underline {
+   width: 170px;
+   height: 2px;
+   background:  #FFCF03;
+   display: inline-block;
+}
+.underline2{
+    border-bottom: 2px solid #FFCF03;
+    width: 270px;
+    text-align: center;
+    display: inline-block;
+}
+.top{
+    margin-top: 48px;
+}
+.spec {
+    color: #000;
+    padding: 7px 33px;
+    background-color: #ffe600;
+    position: relative;
+    border: 4px  solid #ffe600 ;
+}
+.spec:hover{
+    text-decoration: none;
+}
+a img {
+    margin-left: 32px;
+}
